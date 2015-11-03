@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "Application server",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec tests/*"
+  },
+}
